@@ -18,8 +18,7 @@ This project demonstrates the use of Vue.js directives for two-way data binding.
 
 
 ## **Screenshots**
-<p align="center"><img src="assets/img/caprure.png" alt="Preview of ID card" width="400px"></p>
-
+<p align="center"><img src="assets/img/capture.png"></p>
 
 ## **Installation**
 1.	Start proyect in the btwo-project folder:
